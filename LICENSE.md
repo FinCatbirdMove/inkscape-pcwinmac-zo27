@@ -1,4 +1,4 @@
-# 
+# VIP Inkscape 滤镜 Mac OS版 | 自动 Inkscape 滤镜 PC Windows版。集成 湿混 和 透视变形，跨平台性能最大化。
 
 
 
